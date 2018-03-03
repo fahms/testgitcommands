@@ -1,6 +1,1 @@
-:w
-:w
-:wq
-:i
-
 Hello Fahim 2
